@@ -1,0 +1,26 @@
+_repo: A-Perfect-Fool-A-Novel_65401
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warden, Florence
+    alias: James, Florence Alice Price
+    birthdate: 1857
+    deathdate: 1929
+    gutenberg_agent_id: '6480'
+    url: http://www.gutenberg.org/2009/agents/6480
+    wikipedia: https://en.wikipedia.org/wiki/Florence_Warden
+description: ''
+gutenberg_issued: '2021-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65401'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'A Perfect Fool: A Novel'
+url: http://www.gutenberg.org/ebooks/65401
